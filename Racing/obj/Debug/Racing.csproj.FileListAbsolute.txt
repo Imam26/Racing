@@ -1,0 +1,7 @@
+C:\Users\Ильяс Сабитов\source\Racing\Racing\bin\Debug\Racing.exe.config
+C:\Users\Ильяс Сабитов\source\Racing\Racing\bin\Debug\Racing.exe
+C:\Users\Ильяс Сабитов\source\Racing\Racing\bin\Debug\Racing.pdb
+C:\Users\Ильяс Сабитов\source\Racing\Racing\obj\Debug\Racing.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\Racing\Racing\obj\Debug\Racing.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\Racing\Racing\obj\Debug\Racing.exe
+C:\Users\Ильяс Сабитов\source\Racing\Racing\obj\Debug\Racing.pdb
